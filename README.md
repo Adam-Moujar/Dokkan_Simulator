@@ -11,3 +11,7 @@ and also serve as notes for moi.
 ### Character name convention: 
 
 [RARITY][TYPE][NAME]
+
+Example: 
+
+LR PHY GOKU
